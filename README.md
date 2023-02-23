@@ -1,4 +1,4 @@
-![logo](https://github.com/PothalaJahnavi/PothalaJahnavi/blob/main/pothala%20jahnavi.png)
+
 <h1 align="center">Hi 👋, I'm Pothala Jahnavi</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
