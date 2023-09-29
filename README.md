@@ -8,7 +8,7 @@
 
 - 👨‍💻 Have a look at my portfolio [PothalaJahnavi](https://jahnaviportfolio.netlify.app)
 
-- 🌱 I’m currently learning **javascript,flask,etc**
+- 🌱 I’m currently learning **javascript,typescript etc**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pothala-jahnavi-8b2a4622a/**
 
